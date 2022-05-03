@@ -1,0 +1,2 @@
+pending:
+Work on makefile for simple.c
